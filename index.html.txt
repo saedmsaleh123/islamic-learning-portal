@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Islamic Learning Portal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>📖 Islamic Learning Portal</h1>
+    <nav>
+      <a href="dashboard.html">Dashboard</a>
+      <a href="admin.html">Admin Upload</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Welcome</h2>
+    <p>Explore lessons organized by semester, uploaded by your teachers.</p>
+  </main>
+</body>
+</html>
